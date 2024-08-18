@@ -1,0 +1,147 @@
+.header{
+    width:100%;
+    background: rgba(46, 28, 133, 0.973);
+    height:120px;
+}
+body{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.login{
+    width:50%;
+    float:left;
+
+}
+.logo{
+    width:50%;
+    padding-top: 40px;
+    float:left;
+}
+.logo_text{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.login-label{
+    font-size: 20px;
+    color:white;
+}
+.login_controls{
+    margin-left:115px;
+
+}
+.login{
+    padding-top: 20px;
+}
+.forgot{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    color:thistle;
+}
+.sub-btn{
+    background: rgb(35, 26, 95);
+    color: white;
+    height:25px;
+    border-color: #29487d;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.sub-btn:hover{
+    background: tomato;
+}
+.left-section{
+    width:50%;
+    float:left;
+padding-left: 111;
+  padding-top: 48;
+}     
+.right-section{
+    width: 38%;
+    float:left;
+    font-family: 'Times New Roman', Times, serif;
+} 
+.main_body{
+    background: linear-gradient(white,rgb(135, 135, 214));
+    height: 520px;
+    width:100%
+}                                                                                                                                                                                                                                                                                                                                                                                                                         
+.image{
+    width:575px;
+    height: 204px;
+}
+.para{
+    font-size: 22px;
+    font-weight: bold;
+}
+.form{
+    height: 24px;
+  width: 200px;
+  border-radius: 5px;
+  border-color: white;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top:0px;
+}
+.paragraph{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 0px;
+}
+.label{
+    border-radius: 4px;
+    height: 28px;
+    font-size: 18px;
+}
+.label-birthday{
+    font-size: 21px;
+}
+.day-select{
+    width: 10%;
+    border-radius: 0px;
+    height: 28px;
+    background: white;
+    
+}
+.month-select{
+    width: 10%;
+    border-radius: 0px;
+    height: 28px;
+    background: white;
+}
+.year-select{
+    width: 11%;
+    border-radius: 0px;
+    height: 28px;
+    background: white;
+}
+.signup-btn{
+    background: rgb(5, 112, 32);
+color: white;
+height:30px;
+border-color: hsl(118, 89%, 26%);
+font-weight: bold;
+cursor: pointer;
+width: 29%;
+  border-radius: 4px;
+}
+.heading{
+    font-size: 35px;
+}
+.label-birthday{
+    padding-top:4px;
+    padding-bottom: 0px;
+}
+.gender-class{
+        font-size: 21px;
+}
+.para1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:rgb(14, 13, 13);
+}
